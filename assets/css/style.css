@@ -20,6 +20,19 @@ h1 {
     margin-right: 5px; 
 }
 
+.winsAndLossesText{
+    padding: 10px;
+}
+
+.gemstoneImage{
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    float: left;
+}
+
 #gameRules{
     background-color: #fae6ce;
     margin-left: 20px;
@@ -28,4 +41,56 @@ h1 {
 
 #lastRuleParagraph{
     padding-bottom: 150px;
+}
+
+#randomTargetNumber{
+    background-color: #5fc782;
+    height: 200px;
+    width: 250px;
+    margin-left: 20px;
+    float: left;
+}
+
+#winsAndLosses{
+    height: 200px;
+    width: 150px;
+    margin-left: 10px;
+    text-align: center;
+    background-color: #55fcfd;
+    float: left;
+}
+
+#targetNumber{
+    font-size: 40px;
+}
+
+#gemstoneImages{
+    clear:both;
+    margin-top: 10px;
+}
+
+#totalScoreBanner{
+    clear: both;
+    background-color: #34a394;
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 400px;
+    
+}
+
+#totalScoreBannerText{
+    color: white;
+    margin-top: 20px;
+}
+
+#totalScore{
+    height: 300px;
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 10px;
+    background-color: #34a394;
+}
+
+#totalScoreText{
+    font-size: 40px;
 }
