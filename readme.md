@@ -14,7 +14,7 @@ As someone who is learning jQuery from a Python background, I find the de-facto 
 such as a button to be particularly elegant. In other languages, a while true loop would likely be the method of choice
 for any sort of ongoing user interactivity. In jQuery, however, no such method is necessary. Observe: 
 
-'
+'''javascript
 $(".gemstoneImage").click(function(){
         //console.log($(this).attr("value"));
         playerScore += parseInt($(this).attr("value"));
@@ -32,4 +32,4 @@ $(".gemstoneImage").click(function(){
             newGame();
         }
     });   
-'
+'''
