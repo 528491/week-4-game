@@ -1,6 +1,9 @@
 # Readme
 Welcome to the CrystalsCollector Game! This game is a variant of the classic hangman game, where instead of
-guessing letters, the goal is to guess random numbers associated with a given gemstone.
+guessing letters, the goal is to guess random numbers associated with a given gemstone. Game rules are explained 
+in more detail on the page itself.
+
+Feel free to fork the project submit any suggested changes by way of a pull request!
 
 # Photo Credit
 Please acknowledge the work of the talented individuals whose images were used for the gemstone pictures.
